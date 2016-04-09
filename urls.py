@@ -20,5 +20,6 @@ from contact.views import contact
 urlpatterns = [
     url(r'^contact/', 'contact.views.contact', name="contact"),
     url(r'^admin/', admin.site.urls),
-    url(r'^$', admin.site.urls),
+    url(r'^home/', 'home.views.home', name="home"),
+    url(r'^$', 'home.views.home', name="home"),
 ]
