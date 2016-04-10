@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"ContactForm"
+			],
+			[
+				"Contact",
+				"ContactData"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"post",
+				"post_detail"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"car",
+				"carousel-control"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"r",
+				"border-radius"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"s",
+				"background-size"
+			],
+			[
+				"margin-",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/contact/models.py",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/contact/forms.py",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/contact/views.py",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/contact/templates/contact.html",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/contact/admin.py",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"package inta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"boot",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/devppp/sunpshine/src/sunpshine/settings.py",
+		"/C/Users/user/devppp/sunpshine/src/contact/admin.py",
+		"/C/Users/user/devppp/sunpshine/src/sunpshine/urls.py",
+		"/C/Users/user/devppp/sunpshine/src/contact/templates/contact.html",
+		"/C/Users/user/devppp/sunpshine/src/sunpshine_src/.gitignore",
+		"/C/Users/user/devppp/sunpshine/src/home/templates/home.html",
+		"/C/Users/user/devppp/sunpshine/src/home/views.py",
+		"/C/Users/user/devppp/sunpshine/src/contact/views.py",
+		"/C/Users/user/devppp/sunpshine/src/contact/templates/contact",
+		"/C/Users/user/Desktop/layout.phtml",
+		"/C/Users/user/djangoppp/shineidealab/shineidealab/wsgi.py",
+		"/C/Users/user/djangoppp/shineidealab/shineidealab/settings/production.py",
+		"/C/Users/user/djangoppp/shineidealab/shineidealab/settings/__init__.py",
+		"/C/Users/user/djangoppp/shineidealab/.elasticbeanstalk/config.yml",
+		"/C/Users/user/djangoppp/shineidealab/.gitignore",
+		"/C/Users/user/djangoppp/shineidealab/shineidealab/settings/base.py",
+		"/C/Users/user/djangoppp/shineidealab/shineidealab/old_settings.py",
+		"/C/Users/user/djangoppp/shineidealab/static/our_static/css/style.css",
+		"/C/Users/user/djangoppp/shineidealab/templates/release.html",
+		"/C/Users/user/djangoppp/shineidealab/templates/projects.html",
+		"/C/Users/user/djangoppp/shineidealab/templates/html_base.html",
+		"/C/Users/user/djangoppp/shineidealab/main_web/models.py",
+		"/C/Users/user/djangoppp/shineidealab/main_web/views.py",
+		"/C/Users/user/djangoppp/shineidealab/templates/home.html",
+		"/C/Users/user/djangoppp/shineidealab/shineidealab/urls.py",
+		"/C/Users/user/djangoppp/shineidealab/shineidealab/settings.py",
+		"/C/Users/user/djangoppp/shineidealab/templates/contact.html",
+		"/C/Users/user/djangoppp/shineidealab/templates/about.html",
+		"/C/Users/user/djangoppp/shineidealab/main_web/forms.py",
+		"/C/Users/user/djangoppp/shineidealab/main_web/admin.py",
+		"/C/Users/user/djangoppp/shineidealab/templates/navbar.html",
+		"/C/Users/user/djangoppp/shineidealab/home/models.py",
+		"/C/Users/user/djangoppp/shineidealab/home/views.py",
+		"/C/Users/user/djangoppp/shineidealab/templates/footer.html",
+		"/C/Users/user/djangoppp/shineidealab/css/style.css",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/index.html",
+		"/C/Users/user/djangoppp/shineidealab/indexpage/views.py",
+		"/C/Users/user/djangoppp/test1/templates/home.html",
+		"/C/Users/user/djangoppp/test1/trips/admin.py",
+		"/C/Users/user/djangoppp/test1/trips/models.py",
+		"/C/Users/user/djangoppp/test1/templates/post.html",
+		"/C/Users/user/djangoppp/test1/test1/urls.py",
+		"/C/Users/user/djangoppp/test1/trips/views.py",
+		"/C/Users/user/djangoppp/test1/templates/hello_world.html",
+		"/C/Users/user/djangoppp/test1/test1/settings.py",
+		"/C/Users/user/djangoppp/test1/templates/home",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/css/style.css",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/js/bootstrap.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/js/jquery.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/css/focuspoint.css",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/js/jquery.focuspoint.min.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/js/jquery.focuspoint.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/js/jquery.focuspoint.helpertool.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/css/focuspoint",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/js/jquery.focuspoint.helper-basic.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/css/bootstrap.css",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/font-awesome/css/font-awesome.css",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/css/style",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/jquery.js",
+		"/C/Users/user/Downloads/jquery-1.11.3.min.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/test.js",
+		"/C/Users/user/Dropbox/CODE/1. sunpshine/index"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blog",
+			"release_data",
+			"dropdown",
+			"@media",
+			"carousel",
+			"carousel-control"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/contact/models.py",
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/contact/forms.py",
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/contact/views.py",
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/contact/templates/contact.html",
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/contact/admin.py",
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}

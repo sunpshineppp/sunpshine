@@ -1,0 +1,12 @@
+<h1>{{ title }}</h1>
+
+<form method='POST' action=''>{% csrf_token %}
+	<!-- [NOTE] 
+		.{% csrf_token %} 可以讓POST有TOEKN可以通過檢查。 
+	-->
+	{{ form.as_p }}
+	<!-- [NOTE]
+		.as_p 可以讓表格自動垂直排列 
+	-->
+	<input type='submit' value='送出留言'/>
+</form>
